@@ -1,5 +1,5 @@
-# RANSOMWARE
-Simulando um malware de captura de dados simples em python e aprendendo a se proteger
+#RANSOMWARE
+
 Constrido o ambiente> 
  
  
@@ -116,7 +116,14 @@ if __name__ == "__main__":
 
 
 colocando pra rodar 
+retorna com tudo recuperado.
 
+ 
+
+
+<img width="764" height="2793" alt="image" src="https://github.com/user-attachments/assets/e69270ce-a45f-435d-9ad8-592603b3c60a" />
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #KEYLOGGER
 
@@ -306,9 +313,4 @@ como evitar>
 antivirus bloquea, monitoramento, consiencia do usuarios, marquina virtual ou isolada para teste. 
 
 
-<img width="1169" height="3946" alt="image" src="https://github.com/user-attachments/assets/617abdec-ba64-416b-84cf-aa40cab677c8" />
-
- 
-
-
-<img width="764" height="2793" alt="image" src="https://github.com/user-attachments/assets/ed77de46-47a9-4660-bf6b-91bf3c1b89f8" />
+<img width="1169" height="3946" alt="image" src="https://github.com/user-attachments/assets/263c1861-69f8-483d-bef0-34bd47ad7d27" />
